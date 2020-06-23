@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # exemplo
 
-A new Flutter project.
+App criado atraves do curso da COD3R!
 
 ## Getting Started
 
