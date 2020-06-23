@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# exemplo
+# Perguntas APP
 
 App criado atraves do curso da COD3R!
 
